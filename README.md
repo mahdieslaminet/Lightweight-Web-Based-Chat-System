@@ -1,4 +1,5 @@
 # ehiniumChat
+Original repo: https://github.com/ehinium/ehiniumChat
 
 **ehiniumChat** is a lightweight, private group chat system designed for Linux servers. 
 It uses only system packages, stores data in SQLite, and provides a clean Telegram-like UI with realtime messaging.
