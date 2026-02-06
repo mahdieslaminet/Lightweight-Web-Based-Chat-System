@@ -1,4 +1,7 @@
-# ehiniumChat
+# لینک مقالات و ترجمه‌ها،‌ پست‌های اینستاگرام، تجربیات کار ریموت، و آگهی کاری:
+https://drive.google.com/drive/folders/1VDafMatdZxo7DvOuDrEq-aoecPekOecI?usp=sharing
+
+
 Original repo: https://github.com/ehinium/ehiniumChat
 
 **ehiniumChat** is a lightweight, private group chat system designed for Linux servers. 
